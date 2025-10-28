@@ -5,6 +5,12 @@
       "status": "ALLOW",
       "until": "2029-10-01",
       "remarks": "南信合作"
+    },
+    {
+      "id": "20251028_Mine",
+      "status": "ALLOW",
+      "until": "2100-10-01",
+      "remarks": "自用"
     }
   ]
 }
