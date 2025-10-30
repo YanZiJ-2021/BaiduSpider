@@ -11,12 +11,6 @@
       "status": "ALLOW",
       "until": "2030-10-01",
       "remarks": "自用"
-    },
-    {
-      "id": "xxxxxx",
-      "status": "ALLOW",
-      "until": "2025-10-28",
-      "remarks": "自用"
     }
   ]
 }
