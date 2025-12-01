@@ -11,6 +11,12 @@
       "status": "ALLOW",
       "until": "2030-10-01",
       "remarks": "自用"
+    },
+    {
+      "id": "K7rP3Xb9Tq2M8wFd",
+      "status": "ALLOW",
+      "until": "2025-12-03",
+      "remarks": "闲鱼hampy"
     }
   ]
 }
